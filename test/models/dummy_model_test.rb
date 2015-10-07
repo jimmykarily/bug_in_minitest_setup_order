@@ -1,3 +1,5 @@
+require 'test_helper'
+
 class DummyModelTest < ActiveSupport::TestCase
   before do
     puts "before in test"
